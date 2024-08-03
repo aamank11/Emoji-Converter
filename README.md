@@ -1,1 +1,1 @@
-I used a dictionary to convert faces made with keys into actual emojis using the users text.
+This was a fun start on learning to use Python Dictionary's. I was able to use faces made by keys on a keyboard and convert them into emojis. The user is prompted to say anything using a face made with keys and the message said by the user will be repeated along with the conversion of the emoji.
